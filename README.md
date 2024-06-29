@@ -1,7 +1,7 @@
 **********Project installation guide**************
 
-Download and extract folder
-open extract folder in vscode 
+1.Download and extract folder
+2.open extract folder in vscode 
 enter npm i to download dependencies
 after enter cd react-invoice-generator and type npm i 
 check dependencies download properly
