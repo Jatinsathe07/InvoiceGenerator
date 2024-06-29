@@ -1,4 +1,4 @@
-**********Project instllation guide**************
+**********Project installation guide**************
 
 Download and extract folder
 open extract folder in vscode 
