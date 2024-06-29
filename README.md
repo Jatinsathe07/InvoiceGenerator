@@ -1,3 +1,5 @@
+**********Project instllation guide**************
+
 Download and extract folder
 open extract folder in vscode 
 enter npm i to download dependencies
